@@ -1,0 +1,20 @@
+{
+  "name": "json-to-object-action",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabrego/json-to-object-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aabrego/json-to-object-action/issues"
+  },
+  "homepage": "https://github.com/aabrego/json-to-object-action#readme"
+}
