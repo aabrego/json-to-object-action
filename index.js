@@ -6,5 +6,5 @@ try {
   core.setOutput('object', resultObject);
 
 } catch (error) {
-  core.setFailed(error.message);
+  core.setFailed(error.message + '\n\n' + jsonString);
 }
