@@ -1,0 +1,12 @@
+name: 'JSON to Object'
+description: 'Converts a JSON string into a Javascript Object'
+inputs:
+  json-string:  
+    description: 'The JSON string to parse'
+    required: true
+outputs:
+  object:
+    description: 'The Javascript object generated from parsing the input'
+runs:
+  using: 'node12'
+  main: 'index.js'
